@@ -1,0 +1,3 @@
+﻿  Paint.cpp
+c:\users\admin\onedrive\visual studio\paint\paint\paint.cpp(250): warning C4018: '<': signed/unsigned mismatch
+  Paint.vcxproj -> C:\Users\Admin\OneDrive\Visual Studio\Paint\Debug\Paint.exe
