@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Application xmlns="http://schemas.microsoft.com/windows/2009/Ribbon">
+  <Application.Commands>
+    
+    <Command Name="HomeTab" LabelTitle="Home" />
+    <Command Name="ViewTab" LabelTitle="View" />
+    
+
+    <Command Name="newMenu" LabelTitle="New" Symbol="ID_MENU_NEW" >
+      <Command.LargeImages>
+        <Image Id ="527">res/New.bmp</Image>
+      </Command.LargeImages>
+      <Command.SmallImages>
+        <Image Id ="527">res/New.bmp</Image>
+       </Command.SmallImages>
+    </Command>
+    <Command Name="openMenu" LabelTitle="Open" />
+    <Command Name="exitMenu" LabelTitle="Exit"  Symbol="ID_MENU_EXIT"  >
+     <Command.LargeImages>
+        <Image Id ="527">res/Exit.bmp</Image>
+      </Command.LargeImages>
+      <Command.SmallImages>
+        <Image Id ="527">res/Exit.bmp</Image>
+       </Command.SmallImages>
+    </Command>
+    
+    
+    <Command Name="GroupShapes" LabelTitle="Shapes" />
+      
+    <Command Name="Rect" LabelTitle="Rectangle" Symbol="ID_SHAPES_RECT"  >
+     <Command.LargeImages>
+        <Image Id ="527">res/Vuong.bmp</Image>
+      </Command.LargeImages>
+      <Command.SmallImages>
+        <Image Id ="527">res/Vuong.bmp</Image>
+       </Command.SmallImages>
+    </Command>
+   <Command Name="Elip" LabelTitle="Ellipse" Symbol="ID_SHAPES_ELIP"  >
+     <Command.LargeImages>
+        <Image Id ="527">res/Tron.bmp</Image>
+      </Command.LargeImages>
+      <Command.SmallImages>
+        <Image Id ="527">res/Tron.bmp</Image>
+       </Command.SmallImages>
+    </Command>
+    
+  </Application.Commands>
+  <Application.Views>
+    <Ribbon>
+      <Ribbon.ApplicationMenu>
+        <ApplicationMenu CommandName="fileMenu">
+          <MenuGroup>
+              <Button CommandName="newMenu" />
+             <Button CommandName="openMenu" />
+          </MenuGroup>
+          <MenuGroup>
+              <Button CommandName="exitMenu" />
+          </MenuGroup>
+        </ApplicationMenu>
+      </Ribbon.ApplicationMenu>
+      <Ribbon.Tabs>
+        <Tab CommandName="HomeTab">
+          <Group  CommandName="GroupShapes"  SizeDefinition="TwoButtons">
+              <Button CommandName="Rect" />
+             <Button CommandName="Elip" />
+          </Group>  
+        
+          
+        
+        </Tab>
+      <Tab CommandName="ViewTab">
+       </Tab>
+      </Ribbon.Tabs>
+    </Ribbon>
+  </Application.Views>
+</Application>
