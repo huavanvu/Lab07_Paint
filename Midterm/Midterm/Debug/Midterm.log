@@ -1,0 +1,4 @@
+﻿  Midterm.cpp
+c:\users\admin\documents\visual studio 2015\projects\midterm\midterm\midterm.cpp(350): warning C4244: '=': conversion from 'WCHAR' to 'char', possible loss of data
+c:\users\admin\documents\visual studio 2015\projects\midterm\midterm\midterm.cpp(358): warning C4101: 'data': unreferenced local variable
+  Midterm.vcxproj -> C:\Users\Admin\Documents\Visual Studio 2015\Projects\Midterm\Debug\Midterm.exe
