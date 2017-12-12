@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Hook", "Hook\Hook.vcxproj", "{3E3C4D3E-E7F4-422E-A15F-02BEE2D65C29}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MyDLL", "MyDLL\MyDLL.vcxproj", "{B1177944-8F76-4D85-A731-DDF69758E214}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E3C4D3E-E7F4-422E-A15F-02BEE2D65C29}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3E3C4D3E-E7F4-422E-A15F-02BEE2D65C29}.Debug|Win32.Build.0 = Debug|Win32
+		{3E3C4D3E-E7F4-422E-A15F-02BEE2D65C29}.Release|Win32.ActiveCfg = Release|Win32
+		{3E3C4D3E-E7F4-422E-A15F-02BEE2D65C29}.Release|Win32.Build.0 = Release|Win32
+		{B1177944-8F76-4D85-A731-DDF69758E214}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B1177944-8F76-4D85-A731-DDF69758E214}.Debug|Win32.Build.0 = Debug|Win32
+		{B1177944-8F76-4D85-A731-DDF69758E214}.Release|Win32.ActiveCfg = Release|Win32
+		{B1177944-8F76-4D85-A731-DDF69758E214}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

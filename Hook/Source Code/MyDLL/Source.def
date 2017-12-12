@@ -1,0 +1,4 @@
+LIBRARY
+EXPORTS
+	InstallHook=KhoiTaoHook
+	RemoveHook=HuyHook
