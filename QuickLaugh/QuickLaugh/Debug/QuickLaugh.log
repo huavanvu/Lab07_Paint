@@ -1,0 +1,16 @@
+﻿  QuickLaugh.cpp
+c:\users\admin\onedrive\visual studio\quicklaugh\quicklaugh\quicklaugh.cpp(171): warning C4018: '<': signed/unsigned mismatch
+c:\users\admin\onedrive\visual studio\quicklaugh\quicklaugh\quicklaugh.cpp(308): warning C4018: '<': signed/unsigned mismatch
+c:\users\admin\onedrive\visual studio\quicklaugh\quicklaugh\quicklaugh.cpp(314): warning C4018: '<': signed/unsigned mismatch
+c:\users\admin\onedrive\visual studio\quicklaugh\quicklaugh\quicklaugh.cpp(336): warning C4018: '<': signed/unsigned mismatch
+c:\users\admin\onedrive\visual studio\quicklaugh\quicklaugh\quicklaugh.cpp(388): warning C4018: '<': signed/unsigned mismatch
+c:\users\admin\onedrive\visual studio\quicklaugh\quicklaugh\quicklaugh.cpp(397): warning C4018: '<': signed/unsigned mismatch
+c:\users\admin\onedrive\visual studio\quicklaugh\quicklaugh\quicklaugh.cpp(406): warning C4018: '<': signed/unsigned mismatch
+c:\users\admin\onedrive\visual studio\quicklaugh\quicklaugh\quicklaugh.cpp(408): warning C4018: '<': signed/unsigned mismatch
+c:\users\admin\onedrive\visual studio\quicklaugh\quicklaugh\quicklaugh.cpp(423): warning C4018: '<': signed/unsigned mismatch
+c:\users\admin\onedrive\visual studio\quicklaugh\quicklaugh\quicklaugh.cpp(431): warning C4018: '<': signed/unsigned mismatch
+c:\users\admin\onedrive\visual studio\quicklaugh\quicklaugh\quicklaugh.cpp(380): warning C4101: 'wmEvent': unreferenced local variable
+c:\users\admin\onedrive\visual studio\quicklaugh\quicklaugh\quicklaugh.cpp(380): warning C4101: 'wmID': unreferenced local variable
+c:\users\admin\onedrive\visual studio\quicklaugh\quicklaugh\quicklaugh.cpp(455): warning C4101: 'wmEvent': unreferenced local variable
+c:\users\admin\onedrive\visual studio\quicklaugh\quicklaugh\quicklaugh.cpp(455): warning C4101: 'wmID': unreferenced local variable
+  QuickLaugh.vcxproj -> C:\Users\Admin\OneDrive\Visual Studio\QuickLaugh\Debug\QuickLaugh.exe
